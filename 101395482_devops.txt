@@ -2,3 +2,6 @@
 It is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams
 
 Faster, better product delivery and continuous software delivery
+
+Less availability of DevOps professionals
+High infrastructure cost for setting up DevOps environment
