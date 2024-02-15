@@ -1,3 +1,5 @@
 The software development lifecycle (SDLC) is the cost-effective and time-efficient process that development teams use to design and build high-quality software.
 
 Enhances Product Quality, Improves Project Management
+
+Time-Consuming, Inflexibility
