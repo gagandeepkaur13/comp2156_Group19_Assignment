@@ -1,0 +1,5 @@
+ name of the course is 2156
+
+name of professor is pritesh patel 
+
+we have class on tuesday and wednesday
