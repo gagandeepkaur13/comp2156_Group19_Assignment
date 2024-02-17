@@ -1,0 +1,7 @@
+Software development life cycle (SDLC) is the term used in the software industry to describe the process for creating a new software product.
+
+The software development life cycle provides a well-managed framework for designing software, and there are numerous ways to implement the SDLC.
+
+Time-Consuming,Rigid framework,High Upfront Cost
+
+The software development life cycle is a scripted process that, when applied correctly, produces functioning software that meets a customer’s requirement.
