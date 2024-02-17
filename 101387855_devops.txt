@@ -1,3 +1,5 @@
 Name of the course is 2156
 
 name of the instructer is pritesh patel
+
+we have class on monday and wednesday
