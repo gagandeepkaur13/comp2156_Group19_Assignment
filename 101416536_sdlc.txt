@@ -3,3 +3,5 @@ The software development lifecycle (SDLC) is the cost-effective and time-efficie
 Enhances Product Quality, Improves Project Management
 
 Time-Consuming, Inflexibility
+
+At this stage, the actual development starts. It’s important that every developer sticks to the agreed blueprint. Also, make sure you have proper guidelines in place about the code style and practices
