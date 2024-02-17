@@ -3,3 +3,7 @@ The software development life cycle (SDLC) is the process of planning, writing, 
 Provides the structure upon which project planning and scheduling are based
 Helps to estimate both costs and amounts of time
 Includes the activities and deliverables associated with each phase of the project.
+
+The development of the project will take longer and cost more than expected.
+It is imperative that every detail be outlined in advance.
+a lack of adaptability especially in the final stages or phases of the project development
