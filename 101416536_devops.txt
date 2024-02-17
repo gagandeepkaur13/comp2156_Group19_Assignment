@@ -1,2 +1,1 @@
-
-1) Name of the course is 2156
+ name of the course is 2156
