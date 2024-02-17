@@ -3,3 +3,5 @@ Name of the course is 2156
 name of the instructer is pritesh patel
 
 We have class on monday and wednesday
+
+we are 200 students in this course
