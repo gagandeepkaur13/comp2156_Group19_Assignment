@@ -1,4 +1,4 @@
-The software development life cycle (SDLC) is the process of planning, writing, modifying, and maintaining software. Developers use the methodology as they design and write modern software for computers, cloud deployment, mobile phones, video games, and more.
+The goal of the SDLC life cycle model is to deliver high-quality, maintainable software that meets the user’s requirements. The software development life cycle (SDLC) is the process of planning, writing, modifying, and maintaining software. Developers use the methodology as they design and write modern software for computers, cloud deployment, mobile phones, video games, and more.
 
 Provides the structure upon which project planning and scheduling are based
 Helps to estimate both costs and amounts of time
@@ -7,3 +7,5 @@ Includes the activities and deliverables associated with each phase of the proje
 The development of the project will take longer and cost more than expected.
 It is imperative that every detail be outlined in advance.
 a lack of adaptability especially in the final stages or phases of the project development
+
+The goal of the SDLC life cycle model is to deliver high-quality, maintainable software that meets the user’s requirements. SDLC in software engineering models outlines the plan for each stage so that each stage of the software development model can perform its task efficiently to deliver the software at a low cost within a given time frame that meets users’ requirements.
